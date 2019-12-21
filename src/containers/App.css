@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 800;
+  color: #FFFFFF;
+  text-shadow: 3px 3px #07a893;
+}
+
 .App {
   text-align: center;
 }
